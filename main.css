@@ -1,0 +1,15 @@
+/* some css*/
+ul {
+  float:right;
+  display: inline-block;
+  list-style-type: none;
+}
+a {
+  color: grey;
+  font-family: sans-serif;
+  text-decoration: none;
+  
+}
+a:hover {
+  font-weight: bold;
+}
